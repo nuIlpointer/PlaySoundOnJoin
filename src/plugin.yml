@@ -1,0 +1,13 @@
+name: PlaySoundOnJoin
+main: io.github.nuIlpointer.PlaySoundOnJoin_Main
+version: 1.0.0
+author: shachikuchan(nuilpointer)
+description: サーバー参加時にサウンドを再生するプラグイン
+website: https://nuIlpointer.github.io/
+prefix: PlaySoundOnJoin
+commands:
+  psoj:
+    description: PlaySoundOnJoin プラグインを設定する
+    permission: psoj.conf
+    permission-message: §4You can't edit PSOJ config!
+    usage: /psoj [sound,volume,pitch,help,reload] [valve or `default`]

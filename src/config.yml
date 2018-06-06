@@ -1,0 +1,11 @@
+#Minecraft PlaySoundOnJoin plugin version 1.0.0
+#copylight (c) nuilpoinster all rights reserved.
+
+#sound id(default:entity.player.levelup)
+Sound: entity.player.levelup
+
+#volume(default:1)
+Volume: 1
+
+#pitch(default:1)
+Pitch: 1
